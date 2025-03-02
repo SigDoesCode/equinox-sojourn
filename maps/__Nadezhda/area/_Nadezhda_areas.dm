@@ -1830,7 +1830,6 @@ area/nadezhda/medical/medbaymeeting
 	forced_ambience = list('sound/ambience/maintambience.ogg')
 	area_light_color = COLOR_LIGHTING_MAINT_DARK
 	requires_power = FALSE
-	icon_state =
 
 /area/nadezhda/caves/northcave
 	name = "\improper Southwestern Caves Northern Section"
